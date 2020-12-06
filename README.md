@@ -14,8 +14,12 @@
 - <a href='https://github.com/sungjun1116/TIL'>TIL</a> : Today I Learned!
 
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sungjun1116&show_icons=true&count_private=true&theme=tokyonight)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungjun1116&layout=compact&hide=Roff,html,Objective-C)](https://github.com/sungjun1116/github-readme-stats)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sungjun1116&show_icons=true&count_private=true&theme=tokyonight)
 
