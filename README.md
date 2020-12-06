@@ -4,8 +4,8 @@
 ### Stack
 - Javascript 
 - Node.js
-- Android-studio
 - python 
+- Android-studio
 
 
 ### Repository Description
