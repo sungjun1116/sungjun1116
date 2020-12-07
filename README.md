@@ -4,7 +4,6 @@
 ### Stack
 - Javascript 
 - Node.js
-- python 
 - Android-studio
 
 
