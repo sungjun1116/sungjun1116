@@ -13,7 +13,8 @@
 - <a href='https://github.com/sungjun1116/Bvillage-2020_OIDC'>Bvillage-2020_OIDC</a> : Project for '2020 Open Infra Development Contest'
 - <a href='https://github.com/sungjun1116/Algorithm'>Algorithm</a> : Algorithm study for coding test
 - <a href='https://github.com/sungjun1116/firstweb'>firstweb</a> : A simple bulletin board referred to the Node.js-mysql&Node.js-express in 생활코딩
-- <a href='https://github.com/sungjun1116/TIL'>TIL</a> : Today I Learned!
+- <a href='https://github.com/sungjun1116/typechain'>typechain</a> : Learning Typescript by making a Blockchain with it
+- <a href='https://github.com/sungjun1116/paintjs'>paintjs</a> : Painting Board made with VanillaJS
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sungjun1116&show_icons=true&count_private=true)
