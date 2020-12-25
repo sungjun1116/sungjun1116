@@ -2,9 +2,9 @@
 :star: [**Development Note**](https://www.notion.so/NOTE-0ad7b0cd5fc546029425386e4f72c949)
 
 ### Stack
-- Javascript(ES6)
-- Typescript
 - Node.js
+- Typescript
+- React.js
 - python
 
 
