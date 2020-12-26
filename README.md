@@ -3,7 +3,7 @@
 
 ### Stack
 - Node.js
-- Typescript
+- Typescript, Javascript(ES6)
 - React.js
 
 
