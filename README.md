@@ -5,7 +5,6 @@
 - Node.js
 - Typescript
 - React.js
-- python
 
 
 ### Repository Description
