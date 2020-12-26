@@ -9,11 +9,12 @@
 
 ### Repository Description
 - <a href='https://github.com/sungjun1116/Scatter-capstone2'>Scatter-capston2</a> : Graduation Project for 'Capstone Design Contest'
-- <a href='https://github.com/sungjun1116/Algorithm'>Algorithm</a> : Algorithm study for coding test
 - <a href='https://github.com/sungjun1116/Bvillage-2020_OIDC'>Bvillage-2020_OIDC</a> : Project for '2020 Open Infra Development Contest'
-- <a href='https://github.com/sungjun1116/typechain'>typechain</a> : Learning Typescript by making a Blockchain with it
 - <a href='https://github.com/sungjun1116/movie_app_2020'>movie_app_2020</a> : Movie App made with React JS
+- <a href='https://github.com/sungjun1116/typechain'>typechain</a> : Learning Typescript by making a Blockchain with it
 - <a href='https://github.com/sungjun1116/hi-nest'>hi-nest</a> : Learning NestJS by making an enterprise ready API
+- <a href='https://github.com/sungjun1116/Algorithm'>Algorithm</a> : Algorithm study for coding test
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sungjun1116&show_icons=true&count_private=true)
 
