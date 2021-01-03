@@ -9,6 +9,3 @@
 - <a href='https://github.com/sungjun1116/hi-nest'>hi-nest</a> : Learning NestJS by making an enterprise ready API
 - <a href='https://github.com/sungjun1116/Algorithm'>Algorithm</a> : Algorithm study for coding test
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sungjun1116&show_icons=true&count_private=true) 
-
