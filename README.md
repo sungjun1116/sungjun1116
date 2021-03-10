@@ -2,6 +2,7 @@
 <!-- :star: [**Development Note**](https://www.notion.so/NOTE-0ad7b0cd5fc546029425386e4f72c949)-->
 
 ### Repository Description
+- <a href='https://github.com/sungjun1116/clone-mangoplate-server'>clone-mangoplate-server</a> : 망고플레이트앱 클론 프로젝트 - 서버
 - <a href='https://github.com/sungjun1116/Scatter-capstone2'>Scatter-capston2</a> : Graduation Project for 'Capstone Design Contest'
 - <a href='https://github.com/sungjun1116/Bvillage-2020_OIDC'>Bvillage-2020_OIDC</a> : Project for '2020 Open Infra Development Contest'
 - <a href='https://github.com/sungjun1116/movie_app_2020'>movie_app_2020</a> : Movie App made with React JS
