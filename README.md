@@ -2,7 +2,7 @@
 
 <p align="center">
 <h1 align="center"> WELECOME TO MY GITHUB </h1>
-<h3 align="center"> Sungjun1116 </h3>
+<h3 align="center"> Sungjun Hwang </h3>
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
