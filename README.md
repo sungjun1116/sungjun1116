@@ -23,9 +23,4 @@
   
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white">
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/amazon-ec2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon-rds-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white"> 
 </p>
