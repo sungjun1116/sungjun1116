@@ -9,7 +9,7 @@
 
 <p align="center">
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <!--<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">-->
   <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
